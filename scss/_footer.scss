@@ -1,0 +1,36 @@
+#footer{
+
+	.wrapper-footer{
+		padding: 0px 0;
+
+		.row{
+			a{
+				display: block;
+				color: #535353;
+				margin-bottom: 10px;
+			}
+			.col-sm-3{
+			
+			a.social{
+				position: relative;
+			}
+			a.social:before{
+				content: url(../images/dest/whatsapp.png);
+				width: 22px;
+				position: absolute;
+				left: -30px;
+				top: 0;
+			}
+		}
+
+		.col-sm-5{
+			p{
+				line-height: 28px;
+			}
+			a{
+				margin-top: 13px;
+			}
+		}
+		}
+	}
+}
