@@ -1,0 +1,19 @@
+a.btn{
+width: 100%;
+max-width: 255px;
+display: block;
+padding: 14px 0;
+text-align: center;
+color: #fff;
+background: #1EA838;
+border: 2px solid $green;
+border-radius: 30px;
+font-size: 14px;
+font-weight: 400;
+transition: .3s;
+}
+a.btn:hover{
+	background: #fff ;
+	color: #1EA838 ;
+	
+}
